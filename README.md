@@ -1,5 +1,5 @@
-https://github.com/compo90/PROJET_01_ANALYSE_STATISTIQUE/blob/be439a44ac0d885b9236d06726f96f3ac8c4a6d4/PHOTO%20AFFICHE.png
-
+![Image Alt](https://github.com/compo90/PROJET_01_ANALYSE_STATISTIQUE/blob/be439a44ac0d885b9236d06726f96f3ac8c4a6d4/PHOTO%20AFFICHE.png
+)
 # PROJET 01 — Analyse Statistique Complète sur Données Financières
 
 > **Projet éducatif** : les fondamentaux statistiques appliqués aux marchés financiers.
